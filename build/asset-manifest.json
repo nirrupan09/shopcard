@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nirrupan09/shopcard/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/nirrupan09/shopcard/static/js/main.a2a6bf39.chunk.js",
+    "main.js.map": "/nirrupan09/shopcard/static/js/main.a2a6bf39.chunk.js.map",
+    "runtime-main.js": "/nirrupan09/shopcard/static/js/runtime-main.33c36b04.js",
+    "runtime-main.js.map": "/nirrupan09/shopcard/static/js/runtime-main.33c36b04.js.map",
+    "static/js/2.567765f8.chunk.js": "/nirrupan09/shopcard/static/js/2.567765f8.chunk.js",
+    "static/js/2.567765f8.chunk.js.map": "/nirrupan09/shopcard/static/js/2.567765f8.chunk.js.map",
+    "static/js/3.2265f2f7.chunk.js": "/nirrupan09/shopcard/static/js/3.2265f2f7.chunk.js",
+    "static/js/3.2265f2f7.chunk.js.map": "/nirrupan09/shopcard/static/js/3.2265f2f7.chunk.js.map",
+    "index.html": "/nirrupan09/shopcard/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/nirrupan09/shopcard/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.567765f8.chunk.js.LICENSE.txt": "/nirrupan09/shopcard/static/js/2.567765f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c36b04.js",
+    "static/js/2.567765f8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a2a6bf39.chunk.js"
+  ]
+}
